@@ -24,3 +24,9 @@ Question 6: What status code is returned for http:// google.com/teapot? Is it th
 Question 7: What changed in the output of https:// webdocs.cs.ualberta.ca/~hindle1/1.py when you used -X POST? What is this method useful for?
 
 It received data, this method is useful for sending data
+
+Question 8: What is the raw URL to your Python script on GitHub?
+
+https://raw.githubusercontent.com/mharis2/cmput404lab1/master/printrequests.py
+
+
