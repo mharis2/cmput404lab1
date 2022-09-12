@@ -15,7 +15,7 @@ Question 4: What is the difference between the virtual environment and the not v
 
 With virtualenv you can have an isolated Python environment that contains all the libraries and packages that your project needs, whereas not virtualvenv is not an isolated Environment.
 
-Question 5: What status code is returned for http:/ google.com ? What URL must you visit to get a 200 status code? 200, http://www.google.com/
+Question 5: What status code is returned for http:/ google.com ? What URL must you visit to get a 200 status code? 301, http://www.google.com/
 
 Question 6: What status code is returned for http:// google.com/teapot? Is it the one returned by curl -i or curl -iL? What happens when you curl http:// www.google.com/teapot?
 
